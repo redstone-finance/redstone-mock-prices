@@ -1,5 +1,8 @@
 # redstone-mock-prices
 
+**_:warning: Don't remove or archive this repo**
+It's being used in some tests
+
 **_:warning: Warning:_**
 Do not use `mock-prices.json` [URL](https://raw.githubusercontent.com/redstone-finance/redstone-mock-prices/main/mock-prices.json) to test fast-changing prices. Possibly Github has an advanced cache for serving files and changes in the repo could not be visible on the node's side. |
 
